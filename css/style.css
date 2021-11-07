@@ -19,12 +19,12 @@ body {
     width: 95vw;
 }
 
-.v100 {
+iframe {
     min-height: 100vh;
     width: 100vw;
 }
 
-* {
+body {
     margin: 0;
     padding: 0;
     border: 0;
