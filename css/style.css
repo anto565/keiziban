@@ -19,12 +19,9 @@ body {
     width: 95vw;
 }
 
-.vw-100 {
-    width: 100vw;
-}
-
-.vh-100 {
+.v100 {
     min-height: 100vh;
+    width: 100vw;
 }
 
 * {
