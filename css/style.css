@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    background-color: #f4f4f4;
+}
+
+.vw-20 {
+    width: 20vw;
+}
+
+.vw-80 {
+    width: 80vw;
+}
+
+.vw-95 {
+    width: 95vw;
+}
+
+.vw-100 {
+    width: 100vw;
+}
+
+.vh-100 {
+    min-height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+}
