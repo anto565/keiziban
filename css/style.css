@@ -7,21 +7,9 @@ body {
     background-color: #f4f4f4;
 }
 
-.vw-20 {
-    width: 20vw;
-}
-
-.vw-80 {
-    width: 80vw;
-}
-
-.vw-95 {
-    width: 95vw;
-}
-
 .v100 {
     height: 100vh;
-    width: auto;
+    width: 100vw;
     background-position: center;
     background-repeat: no-repeat;
 }
